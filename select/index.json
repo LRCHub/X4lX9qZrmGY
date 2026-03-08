@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Send To You",
+  "base_artist": "luv",
+  "createdAt": "2026-03-08T14:03:32.861978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Send to You My Blues",
+      "artist": "Manta Ray",
+      "has_synced": false,
+      "path": "select/01_I_Send_to_You_My_Blues_Manta_Ray.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Send to Robin Immediately",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/02_Send_to_Robin_Immediately_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Send To Robyn Immediately",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/03_Send_To_Robyn_Immediately_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dr Ipyana - Niseme Nini (Baba NinaKushukuru)-Thanksgiving Anthem SKIZA CODE SMS 6980427 send to 811",
+      "artist": "Dr Ipyana",
+      "has_synced": true,
+      "path": "select/04_Dr_Ipyana_-_Niseme_Nini_(Baba_NinaKushukuru)-Thanksgiving_Anthem_SKIZA_CODE_SMS__Dr_Ipyana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Send to Robin Immediately",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/05_Send_to_Robin_Immediately_Robyn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Send To You",
+      "artist": "luv",
+      "has_synced": false,
+      "path": "select/pl_01_Send_To_You_luv.txt"
+    }
+  ]
+}
